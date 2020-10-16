@@ -1,0 +1,17 @@
+{
+  "nextId": 3,
+  "lancamentos": [
+    {
+      "id": 1,
+      "valor": 1200,
+      "categoria": "Salário",
+      "data": "15/10/2020"
+    },
+    {
+      "id": 2,
+      "valor": 1200,
+      "categoria": "Salário",
+      "data": "15/10/2020"
+    }
+  ]
+}
